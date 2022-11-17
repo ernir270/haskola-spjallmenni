@@ -1,0 +1,496 @@
+Háma er veitingasala í háskólanum, þar er hægt að fá heita rétti daglega milli 11:30 og 13:30.
+Háman er veitingasala í háskólanum, þar er hægt að fá heita rétti daglega milli 11:30 og 13:30.
+Háma er staðsett á Háskólatorgi, í Stakkahlíð, Háskólabíói, Tæknigarði, Læknagarðir, Þjóðarbókhlöðunni, Eirbergi, Odda og Öskju.
+Háman er staðsett á Háskólatorgi, í Stakkahlíð, Háskólabíói, Tæknigarði, Læknagarðir, Þjóðarbókhlöðunni, Eirbergi, Odda og Öskju.
+
+Matseðill hámu fyrir vikuna:
+Á mánudag er Þorskur í tempura, með tartarsósu, hrísgrjónum og fersku salati, veganréttur dagsins er Steiktar oumph bollur með kúskús, kremaðri tómatsósu og salati, 
+súpa 1 er Rjómalöguð sveppasúpa og súpa 2 er Indversk grænmetissúpa.
+Á þriðjudag er Íslensk kjötsúpa, veganréttur dagins er Íslensk Grænmetissúpa, súpa 1 er Sætkartöflusúpa og súpa 2 er Mexikó kjúklingabaunasúpa.
+Á miðvikudag er Grænmetislasagne með hvítlauks-parmesanbrauði gg fersku salati, veganréttur dagsins er Grænmetislasagne með hvítlauks-parmesanbrauði og fersku salati, 
+súpa 1 er Rjómalöguð grænmetissúpa og súpa 2 er Graskerssúpa.
+Á fimmtudag eru Lambakótelettur í raspi með steiktu kartöflusmælki, sultuðum rauðlauk og piparsósu , veganréttur dagsins er Vegan snitsel í raspi með steiktu kartöflusmælki, 
+sultuðum rauðlauk og piparsósu, súpa 1 er Kartöflusúpa með beikoni og súpa 2 er Tailensk núðlusúpa.
+Á föstudag er Píta með kjúkling og salati, kartöflubátar og kokteilsósa, veganréttur dagsins er Píta með grænmetisbuffi og salati, kartöflubátar og kokteilsósa, 
+súpa 1 er Mexikó kjúklingasúpa og súpa 2 er Gulrótarsúpa.
+
+Í matinn á mánudag í Hámu er Þorskur í tempura, með tartarsósu, hrísgrjónum og fersku salati, veganréttur dagsins er Steiktar oumph bollur með kúskús, 
+kremaðri tómatsósu og salati, súpa 1 er Rjómalöguð sveppasúpa og súpa 2 er Indversk grænmetissúpa.
+Í matinn á þriðjudag í Hámu er Íslensk kjötsúpa, veganréttur dagins er Íslensk Grænmetissúpa, súpa 1 er Sætkartöflusúpa og súpa 2 er Mexikó kjúklingabaunasúpa.
+Í matinn á miðvikudag í Hámu er Grænmetislasagne með hvítlauks-parmesanbrauði og fersku salati, veganréttur dagsins er Grænmetislasagne með hvítlauks-parmesanbrauði og fersku salati, 
+súpa 1 er Rjómalöguð grænmetissúpa og súpa 2 er Graskerssúpa.
+Í matinn á fimmtudag í Hámu eru Lambakótelettur í raspi með steiktu kartöflusmælki, sultuðum rauðlauk og piparsósu , 
+veganréttur dagsins er Vegan snitsel í raspi með steiktu kartöflusmælki, sultuðum rauðlauk og piparsósu, súpa 1 er Kartöflusúpa með beikoni og súpa 2 er Tailensk núðlusúpa.
+Í matinn á föstudag í Hámu er Píta með kjúkling og salati, kartöflubátar og kokteilsósa, veganréttur dagsins er Píta með grænmetisbuffi og salati, 
+kartöflubátar og kokteilsósa, súpa 1 er Mexikó kjúklingasúpa og súpa 2 er Gulrótarsúpa.
+Í matinn á mánudaginn í Hámu er Þorskur í tempura, með tartarsósu, hrísgrjónum og fersku salati, veganréttur dagsins er Steiktar oumph bollur með kúskús, 
+kremaðri tómatsósu og salati, súpa 1 er Rjómalöguð sveppasúpa og súpa 2 er Indversk grænmetissúpa.
+Í matinn á þriðjudaginn í Hámu er Íslensk kjötsúpa, veganréttur dagins er Íslensk Grænmetissúpa, súpa 1 er Sætkartöflusúpa og súpa 2 er Mexikó kjúklingabaunasúpa.
+Í matinn á miðvikudaginn í Hámu er Grænmetislasagne með hvítlauks-parmesanbrauði og fersku salati, veganréttur dagsins er Grænmetislasagne með hvítlauks-parmesanbrauði og fersku salati, 
+súpa 1 er Rjómalöguð grænmetissúpa og súpa 2 er Graskerssúpa.
+Í matinn á fimmtudaginn í Hámu eru Lambakótelettur í raspi með steiktu kartöflusmælki, sultuðum rauðlauk og piparsósu , 
+veganréttur dagsins er Vegan snitsel í raspi með steiktu kartöflusmælki, sultuðum rauðlauk og piparsósu, súpa 1 er Kartöflusúpa með beikoni og súpa 2 er Tailensk núðlusúpa.
+Í matinn á föstudaginn í Hámu er Píta með kjúkling og salati, kartöflubátar og kokteilsósa, veganréttur dagsins er Píta með grænmetisbuffi og salati, kartöflubátar og kokteilsósa, 
+súpa 1 er Mexikó kjúklingasúpa og súpa 2 er Gulrótarsúpa.
+
+Háskóli Íslands er ríkisháskóli sem var stofnaður árið 1911.
+Háskólinn er ríkisháskóli sem var stofnaður árið 1911.
+Rektor skólans er Jón Atli Benediktsson, prófessor í rafmagns- og tölvuverkfræði.
+Háskóli Íslands var stofnaður 17. júní árið 1911 og tók til starfa í októberbyrjun sama ár. Við það sameinuðust Prestaskólinn, Læknaskólinn og Lagaskólinn. 
+Háskólinn var stofnaður 17. júní árið 1911 og tók til starfa í októberbyrjun sama ár. Við það sameinuðust Prestaskólinn, Læknaskólinn og Lagaskólinn. 
+Háskóli Íslands býður upp á fjölbreytt nám, bæði á grunnstigi og framhaldsstigi, við Háskóla Íslands eru 26 deildir og fjórar þverfræðilegar námsbrautir, 
+að auki fer fram kennsla á vegum Endurmenntunar Háskóla Íslands.
+Uglan er innri vefur Háskóla Íslands.
+ugla er innri vefur Háskóla Íslands.
+Jón Atli Benediktsson er Rektor Háskóla Íslands, hann er prófessor í rafmagns- og tölvuverkfræði.
+Guðlaugur Þorvaldsson var rektor Háskóla Íslands frá 1973-1979 og ríkissáttasemjari frá 1979-1994, Guðlaugur var í forsetaframboði árið 1980 
+en þar laut hann í lægra haldi gegn Vigdísi Finnbogadóttur, afar mjótt var á munum. 
+
+Snorri Agnarsson er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild Háskóla Íslands, hann hefur aðsetur í Grósku, netfangið hans er snorri@hi.is.
+Hjálmtýr Hafsteinsson er dósent við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, hann hefur aðsetur í Grósku, netfangið hans er hh@hi.is.
+Hafsteinn Einarsson er lektor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, hann hefur aðsetur í Grósku, netfangið hans er hafsteinne@hi.is.
+Ebba Þóra Hvannberg er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, hún hefur aðsetur í Grósku, netfangið hennar er ebba@hi.is.
+Steinunn Rut Friðriksdóttir er Doktorsnemi við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, hún hefur aðsetur í Grósku, netfangið hennar er srf2@hi.is.
+Helmut Wolfram Neukirchen er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, hann hefur aðsetur í Grósku, netfangið hans er helmut@hi.is.
+Páll Melsted er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, hann hefur aðsetur í Grósku, netfangið hans er pmelsted@hi.is.
+Gunnar Stefánsson er prófessor við raunvísindadeild, hann hefur aðsetur í Tæknigarði, netfangið hans er gunnar@hi.is.
+Ólafur Sverrir Kjartansson er aðjunkt við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er osk@hi.is.
+Esa Olavi Hyytiä er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er esa@hi.is.
+Fjóla Jónsdóttir er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hennar er fj@hi.is.
+Matthias Book er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er book@hi.is.
+Guðmundur Valur Oddsson er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er gvo@hi.is.
+Morris Riedel er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er morris@hi.is.
+Rögnvaldur Jóhann Sæmundsson er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er rjs@hi.is.
+Rúnar Unnþórsson er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er runson@hi.is.
+Tómas Philip Rúnarsson er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er tpr@hi.is.
+Sigurður Brynjólfsson er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hans er sb@hi.is.
+Sigrún Nanna Karlsdóttir er prófessor við iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, netfangið hennar er snk@hi.is.
+
+Netfangið hjá Snorra Agnarssyni er snorri@hi.is.
+Netfangið hjá Hjálmtýri Hafsteinssyni er hh@hi.is.
+Netfangið hjá Hafsteini Einarssyni er hafsteinne@hi.is.
+Netfangið hjá Ebbu Þóru Hvannberg er ebba@hi.is.
+Netfangið hjá Steinunni Rut Friðriksdóttur er srf2@hi.is.
+Netfangið hjá Helmut Wolfram Neukirchen er helmut@hi.is.
+Netfangið hjá Páli Melsted er pmelsted@hi.is.
+Netfangið hjá Gunnari Stefánssyni er gunnar@hi.is.
+Netfangið hjá Ólafi Sverri Kjartanssyni er osk@hi.is.
+Netfangið hjá Esa Olavi Hyytiä er esa@hi.is.
+Netfangið hjá Fjólu Jónsdóttur er fj@hi.is.
+Netfangið hjá Matthias Book er book@hi.is.
+Netfangið hjá Guðmundi Vali Oddssyni er gvo@hi.is.
+Netfangið hjá Morris Riedel er morris@hi.is.
+Netfangið hjá Rögnvaldi Jóhanni Sæmundssyni er rjs@hi.is.
+Netfangið hjá Rúnari Unnþórssyni er runson@hi.is.
+Netfangið hjá Tómasi Philip Rúnarsyni er tpr@hi.is.
+Netfangið hjá Sigurði Brynjólfssyni er sb@hi.is.
+Netfangið hjá Sigrúnu Nönnu Karlsdóttur er snk@hi.is.
+
+
+Nám í tölvunarfræði er eitt það hagnýtasta sem völ er á, tölvunarfræðingar taka virkan þátt í þróun, hönnun, prófun, breytingu og forritun hugbúnaðar og starfa með fólki úr mörgum fagstéttum,
+uppbygging og rekstur nútímaþjóðfélags byggist í veigamiklum atriðum á hugbúnaði og námið miðar að því að nemendur verði færir um að þróa og reka traustan og skilvirkan hugbúnað.
+
+Nám í Eðlisfræði: Eðlisfræðin er meðal fjölbreyttustu námsgreina raunvísinda og verkfræði, í senn skemmtileg og hagnýt, 
+námið veitir þekkingu og færni til að takast á við margvísleg verkefni á sviði eðlisfræði og skyldra greina.
+
+Nám í Efnafræði: Efnafræðin er ein af undirstöðugreinum raunvísinda og er auk þess sjálfstæð vísinda- og tæknigrein, 
+námið veitir sterka undirstöðu á helstu sviðum efnafræðinnar og uppfyllir kröfur til frekara náms eða almennra starfa, 
+námið er bæði bóklegt og verklegt og veitir traustan almennan grunn í raungreinum og góða starfsþjálfun í verklagi við störf á rannsóknarstofu.
+
+Nám í Efnaverkfræði: Efnaverkfræði veitir haldgóða þekkingu í raunvísindum og ákveðnum verkfræðigreinum, þú lærir meðal annars að byggja upp og 
+skipuleggja efnaferla á iðnaðarskala, námið veitir traustan almennan grunn í raungreinum og verkfræðigreinum og góða starfsþjálfun í verklagi á rannsóknarstofu.
+
+Nám í Félagsfræði: Í Félagsfræði eru stundaðar kerfisbundnar rannsóknir á þjóðfélaginu, sérstaklega nútíma þjóðfélagi, félagsfræðingar rannsaka skipulag, 
+stofnanir og þróun þjóðfélagsins, með áherslu á að greina orsakir breytinga milli einstaklinga og hópa, meðal viðfangsefna félagsfræðinnar má nefna 
+velferðarmál, afbrot, atvinnu- og efnahagslíf, fjölmiðla, stöðu kynjanna, innflytjendamál og mannfjöldaþróun.
+
+Nám í Guðfræði: Löngum var litið á Guðfræðideildina sem prestaskóla fyrst og fremst, á síðari árum hefur námið við deildina orðið æ fjölbreyttara, 
+hinar hefðbundnu greinar guðfræðinnar gegna enn sem fyrr stærstu hlutverki en nýjar áherslur hafa hins vegar komið inn í þessar greinar, til dæmis með 
+tilkomu kvennaguðfræði, áherslu á áhrifasögu Biblíunnar og menningarfræði og þá ekki síst rannsóknum á trúarlegum stefjum í kvikmyndum. 
+
+Nám í Hagfræði: Grunnnám við Hagfræðideild er góður grunnur, hvort sem er fyrir atvinnulíf eða sérhæft framhaldsnám, námið hefur sannað sig, 
+bæði sem þjálfun fyrir störf á vinnumarkaði og einnig, sem undirbúningur fyrir framhaldsnám í hagfræði og fjármálum, 
+markmið BS námsins er að opna heim hagfræðinnar fyrir nemendum – hvað varðar hugsun, aðferðafræði og kenningar.
+
+Heimspeki leitar skilnings á samhengi hlutanna í víðustu merkingu, hún leitast við að greina hugtök og rök, túlka og skýra margvísleg álitamál, 
+grundvallarspurningar og forsendur, hún beitir fyrst og fremst rökræðunni til að varpa ljósi á þau vandamál sem tekist er á um.
+
+Nám í hjúkrunarfræði tekur til allra aldurshópa og helstu heilsufarsvandamála nútímans, námið er fjölbreytt og kennsla fer fram með 
+fyrirlestrum, umræðutímum, verklegum æfingum, verkefnavinnu og dæmatímum.
+
+Nám í Iðnaðarverkfræði: Iðnaðarverkfræði er kerfisbundin nálgun við að leysa vandamál í víðasta samhengi, 
+námið byggir upp hæfni til að gera þetta með aðstoð vísindalegra aðferða, lögð er áhersla á nýsköpun og eru nemendur 
+hvattir til að huga að samhengi verkfræði og tölvutækni við umhverfi, markað og samfélag,
+námið hentar þeim sem finnst gaman að starfa með fólki og hafa einnig gott vald á tækni og raungreinum.
+
+Nám í Hugbúnaðarverkfræði: Háskóli Íslands var einn af frumkvöðlum á alþjóðavísu í að bjóða nám í hugbúnaðarverkfræði, 
+greinin er ört vaxandi og deildin fylgist vel með skilgreiningu náms á heimsvísu og er í tengslum við aðra háskóla á þessu sviði, 
+hugbúnaðarverkfræði er hagnýtt nám þar sem nemendur læra hönnun, forritun og prófun hugbúnaðar.
+
+Nám í Íslensku: Í námsgreininni íslensku er fengist við mál og bókmenntir á fjölbreyttan hátt, fjallað er um íslenskt mál og bókmenntir í samtímanum 
+en jafnframt er sagan rakin og grafist fyrir um rætur íslenskra bókmennta og uppruna íslenskrar tungu, námið veitir haldgóða almenna menntun 
+og hentar öllum sem hafa áhuga á að starfa á sviði menningar, miðlunar og íslenskra fræða í víðum skilningi.
+
+Nám í Jarðeðlisfræði: Ísland hefur þá sérstöðu að vera eini staðurinn á jarðkringlunni þar sem virkur úthafshryggur er ofansjávar og liggur 
+jafnframt ofan á möttulstrók sem á mikinn þátt í að lyfta landinu upp úr sjávardjúpinu, eina 3000 metra, landið veitir því einstakt tækifæri 
+til þess að kanna þessi jarðfræðilegu fyrirbæri á aðgengilegan og hagkvæman hátt og því sækir hingað jarðvísindafólk alls staðar að úr heiminum.
+
+Nám í Jarðfræði: Þekking á jarðvísindum gegnir æ mikilvægari hlutverki í nútímaþjóðfélagi, jarðvísindin fást m.a. við að auka skilning á loftslagsbreytingum, 
+náttúruvá og umhverfisbreytingum, jarðvísindafólk beitir þekkingu sinni til að leysa hagnýt verkefni, svo sem neysluvatnsleit, nýtingu jarðhita, 
+orkuöflun, undirbúning mannvirkjagerðar, leit að byggingarefnum, málmleit og eftirlit með umbrotum í jarðskorpunni.
+
+Nám í Læknisfræði: BS nám í læknisfræði er fullt nám í þrjú ár og fyrsta skrefið í átt að læknastarfi, kennd er undirstaða í eðlis- og efnafræði, 
+starfsemi mannslíkamans, samskipti við sjúklinga og líkamsskoðun, siðfræði læknisstarfsins, meinafræði og lyfjafræði.
+
+Nám í Líffræði: Líffræði fjallar um einkenni tegunda og aðgreiningu þeirra, um innri starfsemi lífvera og hegðun, um samfélög og vistkerfi, 
+útbreiðslu og breytingar í stærð stofna, hún fjallar um lögmál erfða og þróunar og áhrif umhverfisbreytinga og manna á lífríkið, 
+líffræði er mikilvæg fyrir ábyrga nýtingu á lífverum, fyrir náttúruvernd, heilsu og líftækni.
+
+Nám í Lögfræði: Í Lagadeild er spennandi og skemmtilegt umhverfi fyrir nemendur og kennara, kennslan er nútímaleg og fjölbreytt og tekur mið af því 
+besta sem gerist, lögð er rík áhersla á gagnvirka kennsluhætti þar sem máttur virkrar samræðu milli kennara og nemanda er nýttur til hins ýtrasta.
+
+Nám í Sagnfræði: Sagnfræði er fræðigreinin um mannleg samfélög og einstaklinga, um stjórnkerfi þeirra og stjórnmál, frelsi og ófrelsi, 
+atvinnuvegi og efnahagslíf, hvers konar lifnaðarhætti – menningu í víðasta skilningi – stöðu kynjanna og tilfinningalíf fólks, 
+í sagnfræði eru samfélög könnuð eins langt aftur í tíma og heimildir leyfa og oft skoðuð í löngum tímasniðum en einnig í smærri 
+einingum og með áherslu á einhver ákveðin fyrirbæri mannslífsins.
+
+Nám í Sálfræði: Er áhugasvið þitt hegðun, samskipti og hugsun fólks, langar þig að skilja hvernig heilinn starfar, hefur þú gaman af því að rannsaka, 
+hlusta og fræða, ,eitar þú að grunnnámi sem veitir góð atvinnutækifæri eða möguleika á fjölbreyttu framhaldsnámi, kynntu þér þá BS-nám í sálfræði.
+
+Nám í Stjórnmálafræði: Stjórnmálafræði er víðfeðmt fræðasvið sem undirbýr þig fyrir störf þar sem krafist er yfirgripsmikillar þekkingar á 
+íslensku samfélagi og stjórnmálum; gangverki hins opinbera, hvort sem er á Íslandi eða erlendis; og samskiptum ríkja á alþjóðavettvangi.
+
+Nám í Stærðfræði: Nám í stærðfræði snýst fyrst og fremst um skilning á hugtökum, samband hugtaka og hvernig þau mynda heildstætt kerfi, 
+áhersla er lögð á fræðilegan grunn og gagnrýna agaða hugsun sem nýtist nemandanum vel í glímu við verkefni á öðrum sviðum, 
+námið þroskar hæfileikann til að finna og setja fram skothelda röksemdafærslu.
+
+Nám í Tæknifræði: Tæknifræði er fjölfaglegt og hagnýtt nám sem veitir rétt til að sækja um lögverndað starfsheiti Tæknifræðings, 
+í náminu geta nemendur öðlast öfluga tækniþekkingu samhliða færni við að beita henni á raunveruleg verkefni tengd atvinnulífi, 
+með þessu taka nemendur virkan þátt í nýsköpun og tækniþróun, námið er kennt í Tæknifræðisetri Háskóla Íslands í Hafnarfirði.
+
+Nám í Umhverfis- og byggingarverkfræði: Umhverfis- og byggingarverkfræðingar þróa og hanna hagkvæmar lausnir sem tryggja öryggi og 
+stuðla að jákvæðum áhrifum á heilsu og umhverfi, grunnnám í umhverfis- og byggingarverkfræði er þriggja ára nám sem lýkur með BS gráðu, 
+til að öðlast réttindi til starfsheitisins verkfræðingur þarf einnig að ljúka meistaraprófi.
+
+Nám í Vélaverkfræði: Vélaverkfræðinám er afar fjölbreytt og hagnýtt og opnar margar leiðir út í atvinnulífið, viðfangsefnin eru fjölbreytt 
+og má finna mjög víða, til dæmis við þróun á nýtingu jarðhita og sjálfbærri orku, við hönnun kerfa og tækja sem létta okkur lífið og 
+í nýsköpun tengdri líftækni, heilsu og stoðtækjum og svo mætti lengi telja.
+
+Nám í Viðskiptafræði: Í viðskiptafræði lærir þú allt það helsta um stofnun og rekstur fyrirtækja, fimm kjörsvið eru í boði en þau eru fjármál, markaðsfræði, 
+reikningshald, stjórnun og almenn viðskiptafræði, námið er góður undirbúningur fyrir atvinnulíf, framhaldsnám og rekstur heimilis, náminu lýkur með lokaritgerð.
+
+
+Haustmisserispróf eru 30 nóv - 15 des. 
+Lokapróf á haustönn eru 30 nóv - 15 des. 
+Vormisserispróf eru 25 apríl – 10 maí.
+Lokapróf á vorönn eru 25 apríl – 10 maí.
+Jólaleyfi er frá 19. des til 3.jan.
+
+Hagnýt stærðfræðigreining (STÆ105G): Í námskeiðinu er fjallað um undirstöðuatriði stærðfræðigreiningarinnar auk fylkjareiknings, meginviðfansefni eru fallahugtakið, 
+helstu föll stærðfræðigreiningarinnar (lograr, veldisvísisföll, hornaföll), markgildi, samfelldni, deildanleg föll, reglur um afleiður, afleiður af hærra stigi, 
+stofnföll, notkun deildareiknings (svo sem  útgildisverkefni og línuleg nálgun), meðalgildissetningin, heildun, ákveðin heildi og reiknireglur fyrir þau, 
+undirstöðusetning stærðfræðigreiningarinnar, heildunartækni, óeiginleg heildi, runur, raðir, afleiðujöfnur, vigrar og fylkjareikningur.
+Hagnýt stærðfræðigreining (STÆ105G): Í námskeiðinu er fjallað um undirstöðuatriði stærðfræðigreiningarinnar auk fylkjareiknings, meginviðfansefni eru fallahugtakið,
+ helstu föll stærðfræðigreiningarinnar (lograr, veldisvísisföll, hornaföll), markgildi, samfelldni, deildanleg föll, reglur um afleiður, afleiður af hærra stigi, 
+stofnföll, notkun deildareiknings (svo sem  útgildisverkefni og línuleg nálgun), meðalgildissetningin, heildun, ákveðin heildi og reiknireglur fyrir þau, 
+undirstöðusetning stærðfræðigreiningarinnar, heildunartækni, óeiginleg heildi, runur, raðir, afleiðujöfnur, vigrar og fylkjareikningur.
+
+Tölvunarfræði 1 (TÖL101G): Forritunarmálið Java verður notað til að kynnast grundvallaratriðum í tölvuforritun, æfingar í forritasmíð verða á dagskrá allt misserið, 
+áhersla verður lögð á skipulegar og rökstuddar aðferðir við smíði forrita og góða innri skjölun, helstu hugtök tengd tölvum og forritun, klasar, hlutir og aðferðir, 
+stýrisetningar, strengir og fylki, aðgerðir og innbyggð föll, inntaks- og úttaksaðgerðir, erfðir, hugtök varðandi hönnun og byggingu kerfa og vinnubrögð við forritun, 
+ítrun og endurkvæmni, röðun og leit.
+Tölvunarfræði 1 (TÖL101G): Forritunarmálið Java verður notað til að kynnast grundvallaratriðum í tölvuforritun, æfingar í forritasmíð verða á dagskrá allt misserið, 
+áhersla verður lögð á skipulegar og rökstuddar aðferðir við smíði forrita og góða innri skjölun, helstu hugtök tengd tölvum og forritun, klasar, hlutir og aðferðir, 
+stýrisetningar, strengir og fylki, aðgerðir og innbyggð föll, inntaks- og úttaksaðgerðir, erfðir, hugtök varðandi hönnun og byggingu kerfa og vinnubrögð við forritun, 
+ítrun og endurkvæmni, röðun og leit.
+
+Stærðfræðimynstur (TÖL104G): Yrðingar, umsagnir og rökleiðingar, mengjareikningur og Boolealgebrur, þrepun og endurkvæmni, grunnaðferðir við greiningu reiknirita og talningu, 
+einföld reiknirit í talnafræði, vensl, eiginleikar þeirra og framsetning, tré og net og einföld reiknirit tengd þeim, strengir, dæmi um mál, stöðuvélar og málskipan.
+Stærðfræðimynstur (TÖL104G): Yrðingar, umsagnir og rökleiðingar, mengjareikningur og Boolealgebrur, þrepun og endurkvæmni, grunnaðferðir við greiningu reiknirita og talningu, 
+einföld reiknirit í talnafræði, vensl, eiginleikar þeirra og framsetning, tré og net og einföld reiknirit tengd þeim, strengir, dæmi um mál, stöðuvélar og málskipan.
+
+Vefforritun 1 (TÖL107G): Kenndur er grunnur í vefsmíði með áherslu á framenda: HTML, CSS og JavaScript, staðlar, venjur og það sem þarf til að útbúa góða vefi, 
+hönnun, útlit og að vinna með hönnunarskjöl, forritun í túlkaða forritunarmálinu JavaScript, tenging þess við vafra og tól tengdum því, HTTP staðallinn kynntur, 
+verkefni felast í smíði vefja þar sem nýta skal það sem kennt er.
+Vefforritun 1 (TÖL107G): Kenndur er grunnur í vefsmíði með áherslu á framenda: HTML, CSS og JavaScript, staðlar, venjur og það sem þarf til að útbúa góða vefi, 
+hönnun, útlit og að vinna með hönnunarskjöl, forritun í túlkaða forritunarmálinu JavaScript, tenging þess við vafra og tól tengdum því, HTTP staðallinn kynntur, 
+verkefni felast í smíði vefja þar sem nýta skal það sem kennt er.
+
+Viðmótsforritun (HBV201G): Grafísk notendaviðmót og forritun þeirra, forritun og verkefni í Java, viðmótshönnun og notendaviðmótsprófanir.
+Viðmótsforritun (HBV201G): Grafísk notendaviðmót og forritun þeirra, forritun og verkefni í Java, viðmótshönnun og notendaviðmótsprófanir.
+
+Stærðfræði og reiknifræði (REI201G): Skekkjumat við fleytitölureikninga, lausn ólinulegra jafna með ítrekun, 
+reiknifræðileg forritun í Python, vigrar, fylki, lausn línulegra jöfnuhneppa, aðhvarfsgreining.
+Stærðfræði og Reiknifræði (REI201G): Skekkjumat við fleytitölureikninga, lausn ólinulegra jafna með ítrekun, 
+reiknifræðileg forritun í Python, vigrar, fylki, lausn línulegra jöfnuhneppa, aðhvarfsgreining.
+
+Tölvunarfræði-2 (TÖL203G): Byrjað verður á kynningu á forritunarmálinu C++, námskeiðið mun nota forritunarmálin C++ og Java, fjallað er um gagnaskipan, 
+reiknirit og huglæg gagnatög, meðal gagnaskipana, sem farið er yfir, eru listar, hlaðar, biðraðir, forgangsbiðraðir, tré, tvítré, tvíleitartré og hrúgur 
+auk viðkomandi reiknirita, kynnt verða ýmis leitar- og röðunarreiknirit, reiknirit eru greind, hvað þau taka langan tíma í vinnslu og hve mikið minnisrými, 
+forritunarverkefni, sem nota áðurnefnda gagnaskipan og reiknirit, eru leyst í C++ og Java, mörg lítil forritunarverkefni verða í námskeiðinu.
+Tölvunarfræði-2 (TÖL203G): Byrjað verður á kynningu á forritunarmálinu C++, námskeiðið mun nota forritunarmálin C++ og Java, fjallað er um gagnaskipan, 
+reiknirit og huglæg gagnatög, meðal gagnaskipana, sem farið er yfir, eru listar, hlaðar, biðraðir, forgangsbiðraðir, tré, tvítré, tvíleitartré og hrúgur 
+auk viðkomandi reiknirita, kynnt verða ýmis leitar- og röðunarreiknirit, reiknirit eru greind, hvað þau taka langan tíma í vinnslu og hve mikið minnisrými, 
+forritunarverkefni, sem nota áðurnefnda gagnaskipan og reiknirit, eru leyst í C++ og Java, mörg lítil forritunarverkefni verða í námskeiðinu.
+
+Greining og hönnun stafrænna rása (TÖV201G): Virkni og notkun flétturása, kóðara, afkóðara, lesminni (ROM), og forritanlegs rökrásabúnaðar við rásahönnun, 
+hönnun og greining reiknirása, samleggjari/frádragari, margfaldari, hönnun og greining runurása bæði samhæfðar og ósamhæfðar, farið verður í hönnun rása 
+með D og JK vippum, sérstakar runurásir, teljarar og hliðrunargisti, meðhöndlun og notkun stöðuvéla (FSM), stöðulágmörkun, stöðustjórnun, stöðukennsl, 
+runuvinnsla með stöðuvélum, grundvallaratriði í notkun vélhermimáls (HDL) og forritanlegs rása búnaðar (FPGA) í samræmi við fyrrnefndar rásir, 
+nemendur munu skila sjö verklegum verkefnum sem byggja á stafrænni rásahönnun, Verilog og FPGA,auk þess munu nemendur kynnast eldri aðferðum með notkun 
+á tengibrettum til að byggja rásir nokkurra valinna verkefna.
+Greining og hönnun stafrænna rása (TÖV201G): Virkni og notkun flétturása, kóðara, afkóðara, lesminni (ROM), og forritanlegs rökrásabúnaðar við rásahönnun, 
+hönnun og greining reiknirása, samleggjari/frádragari, margfaldari, hönnun og greining runurása bæði samhæfðar og ósamhæfðar, farið verður í hönnun rása 
+með D og JK vippum, sérstakar runurásir, teljarar og hliðrunargisti, meðhöndlun og notkun stöðuvéla (FSM), stöðulágmörkun, stöðustjórnun, stöðukennsl, 
+runuvinnsla með stöðuvélum, grundvallaratriði í notkun vélhermimáls (HDL) og forritanlegs rása búnaðar (FPGA) í samræmi við fyrrnefndar rásir, 
+nemendur munu skila sjö verklegum verkefnum sem byggja á stafrænni rásahönnun, Verilog og FPGA,auk þess munu nemendur kynnast eldri aðferðum með notkun 
+á tengibrettum til að byggja rásir nokkurra valinna verkefna.
+
+Gagnasafnsfræði (TÖL303G): Gagnasöfn og gagnasafnskerfi, einindavenslalíkanið, töflulíkanið og töflualgebra, SQL fyrirspurnarmálið, hagkvæmni geymsluaðferða og úrvinnsluaðferða, 
+fallákveður, lyklar og staðalskipulag gagna í venslalíkaninu, bestun fyrirspurna, hreyfingar, samhliða vinnsla hreyfinga og læsingar, endurbygging gagnasafna, 
+öryggi gagnasafna og aðgangsheimildir, vöruhús gagna.
+Gagnasafnsfræði (TÖL303G): Gagnasöfn og gagnasafnskerfi, einindavenslalíkanið, töflulíkanið og töflualgebra, SQL fyrirspurnarmálið, hagkvæmni geymsluaðferða og úrvinnsluaðferða, 
+fallákveður, lyklar og staðalskipulag gagna í venslalíkaninu, bestun fyrirspurna, hreyfingar, samhliða vinnsla hreyfinga og læsingar, endurbygging gagnasafna, 
+öryggi gagnasafna og aðgangsheimildir, vöruhús gagna.
+
+Forritunarmál (TÖL304G): Helstu gerðir forritunarmála kynntar, bálkmótuð mál, listavinnslumál, hlutbundin forritun, lýsing forritunarmála, þýðendur og túlkar, 
+uppbygging bálkmótaðra mála, einingaforritun, föll og undirforrit, viðföng og samskipti, minnismeðhöndlun, ruslasöfnun, forritunarmálin Scheme, CAML, Java, 
+Morpho, C++ og Haskell verða skoðuð, hlutbundin forritunarmál, hlutir og erfðir, listavinnsla og fallsforritun, lýsing forritunarmála, málfræði, 
+uppbygging þýðenda, áhersla er lögð á einingaforritun (einkum fjölnota einingar), listavinnslu, fallsforritun, og bálkmótun.
+Forritunarmál (TÖL304G): Helstu gerðir forritunarmála kynntar, bálkmótuð mál, listavinnslumál, hlutbundin forritun, lýsing forritunarmála, þýðendur og túlkar, 
+uppbygging bálkmótaðra mála, einingaforritun, föll og undirforrit, viðföng og samskipti, minnismeðhöndlun, ruslasöfnun, forritunarmálin Scheme, CAML, Java, 
+Morpho, C++ og Haskell verða skoðuð, hlutbundin forritunarmál, hlutir og erfðir, listavinnsla og fallsforritun, lýsing forritunarmála, málfræði, 
+uppbygging þýðenda, áhersla er lögð á einingaforritun (einkum fjölnota einingar), listavinnslu, fallsforritun, og bálkmótun.
+
+Tölvutækni og forritun (TÖL309G): Námskeiðið fjallar um innri gerð tölva og hvernig best er að haga forritun til að nýta sem best eiginleika nútíma tölva, 
+farið verður í forritunarmálið C og sér í lagi fjallað um benda og minnisnotkun, táknun heiltalna og kommutalna í tölvum, forritun í x86-64 smalamáli, 
+sérstaklega verður skoðað hvernig aðgerðir í C eru útfærðar í smalamáli, minnisstigveldi og áhrif þess á afköst forrita, ferli og stýring þeirra, 
+útfærsla og notkun frábrigða í tölvum, sýndarminni tölva, samskeiða forritun.
+Tölvutækni og forritun (TÖL309G): Námskeiðið fjallar um innri gerð tölva og hvernig best er að haga forritun til að nýta sem best eiginleika nútíma tölva, 
+farið verður í forritunarmálið C og sér í lagi fjallað um benda og minnisnotkun, táknun heiltalna og kommutalna í tölvum, forritun í x86-64 smalamáli, 
+sérstaklega verður skoðað hvernig aðgerðir í C eru útfærðar í smalamáli, minnisstigveldi og áhrif þess á afköst forrita, ferli og stýring þeirra, 
+útfærsla og notkun frábrigða í tölvum, sýndarminni tölva, samskeiða forritun.
+
+Þróun hugbúnaðar (HBV401G): Í þessu námskeiði stíga nemendur skrefið frá því að forrita sjálfir lítil forrit til að leysa vel skilgreind afmörkuð verkefni yfir 
+í að vinna í hópi með öðrum að gerð stærri forritakerfa sem uppfylla stundum óljósar kröfur viðskiptavina, námskeiðið fjallar um ýmsar grunnhugmyndir 
+hugbúnaðarverkfræði til að fást við slík stærri kerfi, svo sem lipur hugbúnaðarferli, hugbúnaðarferli byggð á áætlunum, þarfaverkfræði, mat á vinnumagni, 
+hlutbundna greiningu og hönnun, högun hugbúnaðar og þróun byggða á prófunum, notkun þessara hugtaka er æfð í hópvinnuverkefnum þar sem nemendur þróa kerfi 
+sem eru samsett úr minni þáttum og forrituð í Java.
+Þróun hugbúnaðar (HBV401G): Í þessu námskeiði stíga nemendur skrefið frá því að forrita sjálfir lítil forrit til að leysa vel skilgreind afmörkuð verkefni yfir 
+í að vinna í hópi með öðrum að gerð stærri forritakerfa sem uppfylla stundum óljósar kröfur viðskiptavina, námskeiðið fjallar um ýmsar grunnhugmyndir 
+hugbúnaðarverkfræði til að fást við slík stærri kerfi, svo sem lipur hugbúnaðarferli, hugbúnaðarferli byggð á áætlunum, þarfaverkfræði, mat á vinnumagni, 
+hlutbundna greiningu og hönnun, högun hugbúnaðar og þróun byggða á prófunum, notkun þessara hugtaka er æfð í hópvinnuverkefnum þar sem nemendur þróa kerfi 
+sem eru samsett úr minni þáttum og forrituð í Java.
+
+Tölfræði og gagnavinnsla (STÆ209G): Í byrjun námskeiðsins eru grunnhugtök tölfræðinnar kynnt til sögunnar, svo sem þýði, úrtak og breyta, nemendur kynnast hinum 
+ýmsu lýsistærðum og myndrænni framsetningu gagna, því næst verður farið í grundvallaratriði líkindafræðinnar og helstu líkindadreifingar kynntar, 
+síðasti hluti námskeiðsins snýr að ályktunartölfræði þar sem skoðuð verða tilgátupróf og öryggisbil fyrir meðaltöl, dreifni og hlutföll og farið verður 
+í fervikagreiningu og aðhvarfsgreiningu, nemendur læra beitingu allra ofangreindra aðferða í tölfræðihugbúnaðinum R.
+Tölfræði og gagnavinnsla (STÆ209G): Í byrjun námskeiðsins eru grunnhugtök tölfræðinnar kynnt til sögunnar, svo sem þýði, úrtak og breyta, nemendur kynnast hinum 
+ýmsu lýsistærðum og myndrænni framsetningu gagna, því næst verður farið í grundvallaratriði líkindafræðinnar og helstu líkindadreifingar kynntar, 
+síðasti hluti námskeiðsins snýr að ályktunartölfræði þar sem skoðuð verða tilgátupróf og öryggisbil fyrir meðaltöl, dreifni og hlutföll og farið verður 
+í fervikagreiningu og aðhvarfsgreiningu, nemendur læra beitingu allra ofangreindra aðferða í tölfræðihugbúnaðinum R.
+
+Stýrikerfi (TÖL401G): Auk grunn undirstöðu í vélbúnaðarbyggingum tölva og almennri uppbyggingu stýrikerfa verður farið yfir helstu hugtök um ferla (processes) 
+og þræði (threads) ásamt stjórnun þeirra, meginreglur um tímasetningar og tímasetninga fyrir reiknirit, samskipti og samstillingu milli ferla og vandamál sem 
+tengjast sjálfheldu, meginreglur í minnisstjórnun þar á meðal sýndarminni og reiknirit fyrir síðuskipti, skjalakerfi og útfærslu þeirra, sem og stjórnun á geymslu gagna.
+Stýrikerfi (TÖL401G): Auk grunn undirstöðu í vélbúnaðarbyggingum tölva og almennri uppbyggingu stýrikerfa verður farið yfir helstu hugtök um ferla (processes) 
+og þræði (threads) ásamt stjórnun þeirra, meginreglur um tímasetningar og tímasetninga fyrir reiknirit, samskipti og samstillingu milli ferla og vandamál sem 
+tengjast sjálfheldu, meginreglur í minnisstjórnun þar á meðal sýndarminni og reiknirit fyrir síðuskipti, skjalakerfi og útfærslu þeirra, sem og stjórnun á geymslu gagna.
+
+Greining reiknirita (TÖL403G): Aðferðir við hönnun og greiningu á tímaflækju reiknirita, kynning og greining á reikniritum fyrir röðun, leit, netafræði og fylkjareikning, 
+torleysanleg vandamál, nálgunaraðferðir og slembin reiknirit.
+Greining reiknirita (TÖL403G): Aðferðir við hönnun og greiningu á tímaflækju reiknirita, kynning og greining á reikniritum fyrir röðun, leit, netafræði og fylkjareikning, 
+torleysanleg vandamál, nálgunaraðferðir og slembin reiknirit.
+
+Formleg mál og reiknanleiki (TÖL301G): Endanlegar stöðuvélar, regluleg mál og málskipan, staflavélar, samhengisóháð mál og málskipan, Turingvélar, almenn mál og málskipan 
+og helstu eiginleikar þeirra, ávarðanleg og listanleg mál, yfirfærsla milli mála, tengsl við ákvörðnarverkefni og sönnun á óleysanleika slíkra verkefna, 
+flækjustigsflokkarnir P og NP og NP-fullkomleiki, dæmi um ýmis líkön af reiknanleika.
+Formleg mál og reiknanleiki (TÖL301G): Endanlegar stöðuvélar, regluleg mál og málskipan, staflavélar, samhengisóháð mál og málskipan, Turingvélar, almenn mál og málskipan 
+og helstu eiginleikar þeirra, ávarðanleg og listanleg mál, yfirfærsla milli mála, tengsl við ákvörðnarverkefni og sönnun á óleysanleika slíkra verkefna, 
+flækjustigsflokkarnir P og NP og NP-fullkomleiki, dæmi um ýmis líkön af reiknanleika.
+
+Hugbúnaðarverkefni 1 (HBV501G): Markmið námskeiðsins er að nemendur geti þróað hugbúnaðarkerfi, tekið þátt í hugbúnaðarverkefnum og hugleitt hugbúnaðarþróun, einn meginhluti 
+námskeiðsins er þróun hugbúnaðar sem nemendur vinna að í teymum, kennslan er verkefnismiðuð, efni námskeiðsins spannar fyrri fasa hugbúnaðarþróunar, stærðarmat, 
+hönnun og forritun og samstæðustjórnun, verkefni sem nemendur vinna að í námskeiðinu vinna þeir áfram í námskeiðinu HBV601G Hugbúnaðarverkefni 2.
+Hugbúnaðarverkefni 1 (HBV501G): Markmið námskeiðsins er að nemendur geti þróað hugbúnaðarkerfi, tekið þátt í hugbúnaðarverkefnum og hugleitt hugbúnaðarþróun, einn meginhluti 
+námskeiðsins er þróun hugbúnaðar sem nemendur vinna að í teymum, kennslan er verkefnismiðuð, efni námskeiðsins spannar fyrri fasa hugbúnaðarþróunar, stærðarmat, 
+hönnun og forritun og samstæðustjórnun, verkefni sem nemendur vinna að í námskeiðinu vinna þeir áfram í námskeiðinu HBV601G Hugbúnaðarverkefni 2.
+
+Hugbúnaðarverkefni 2 (HBV601G): Seinna námskeiðið af tveimur (HBV501G og HBV601G) þar sem nemendur vinna að umfangsmiklu hugbúnaðarverkefni í hópvinnu, fínönnun, útfærsla, 
+prófanir, uppsetning og afhending verkefnisins, sem var þarfagreint og hannað í námskeiðinu Hugbúnaðarverkefni 1, útfærsla á skrefum. Forritunarstaðlar, skjölun, 
+rekjanleiki og sönnun forrita, gallalaus forritun. Mat á umfangi hugbúnaðarkerfa, prófunaraðferðir, prófanir og gæðamat á hugbúnaðarverkefnum, rýni á hönnun og útfærslu, 
+uppsetning og viðtaka kerfa. Líftími hugbúnaðarkerfa, mælingar í hugbúnaðargerð, alþjóðlegir staðlar um þróun hugbúnaðar.
+Hugbúnaðarverkefni 2 (HBV601G): Seinna námskeiðið af tveimur (HBV501G og HBV601G) þar sem nemendur vinna að umfangsmiklu hugbúnaðarverkefni í hópvinnu, fínönnun, útfærsla, 
+prófanir, uppsetning og afhending verkefnisins, sem var þarfagreint og hannað í námskeiðinu Hugbúnaðarverkefni 1, útfærsla á skrefum. Forritunarstaðlar, skjölun, 
+rekjanleiki og sönnun forrita, gallalaus forritun. Mat á umfangi hugbúnaðarkerfa, prófunaraðferðir, prófanir og gæðamat á hugbúnaðarverkefnum, rýni á hönnun og útfærslu, 
+uppsetning og viðtaka kerfa. Líftími hugbúnaðarkerfa, mælingar í hugbúnaðargerð, alþjóðlegir staðlar um þróun hugbúnaðar.
+
+Inngangur að máltækni (TÖL025M): Í námskeiðinu verður farið yfir helstu atriði í máltækni með áherslu á greiningu og vinnslu ritaðs máls, farið verður yfir helstu 
+kjarnaverkefni í máltækni og nytsemi þeirra, helstu tól og málföng verða kynnt, auk þess sem farið verður sérstaklega yfir stöðu íslenskrar máltækni, 
+áhersla verður lögð á aðferðir sem nýta greypingar, djúp tauganet og mállíkön við lausn hagnýtra verkefna auk þess sem farið verður yfir hvernig gervigreindaraðferðir 
+hafa nær alfarið tekið yfir við vinnslu mannlegs máls. 
+Inngangur að máltækni (TÖL025M): Í námskeiðinu verður farið yfir helstu atriði í máltækni með áherslu á greiningu og vinnslu ritaðs máls, farið verður yfir helstu 
+kjarnaverkefni í máltækni og nytsemi þeirra, helstu tól og málföng verða kynnt, auk þess sem farið verður sérstaklega yfir stöðu íslenskrar máltækni, 
+áhersla verður lögð á aðferðir sem nýta greypingar, djúp tauganet og mállíkön við lausn hagnýtra verkefna auk þess sem farið verður yfir hvernig gervigreindaraðferðir 
+hafa nær alfarið tekið yfir við vinnslu mannlegs máls. 
+
+Netafræði (STÆ520M): Net, netamótanir og netaeinsmótanir, Hlutnet, spannandi hlutnet, Vegir, tengd net, Örvanet, Tvíhlutanet,Euler-net og Hamilton-net, 
+setningar Chvátals, Pósa, Ores og Diracs, keppnisnet, tré, spannandi tré, trjáfylkjasetningin, Cayley-setningin, vegin net, reiknirit Kruskals og Dijkstra, 
+flæðinet, setning um hámarksflæði og lágmarkssnið, Ford-Fulkerson-reikniritið, Menger-setningin, spyrðingar, Berge-setningin, giftingarsetning Halls, 
+König-Egerváry-setningin, Kuhn-Munkres-reikniritið, óaðskiljanleg net, tvítengd net, lagnet, Euler-formúla, Kuratowski-setningin, nykurnet, 
+greypingar neta í fleti, Ringel-Youngs-Mayer-setningin, litanir, litunarsetning Heawoods, Brooks-setningin, litamargliða; leggjalitanir, Vizing-setningin.
+Netafræði (STÆ520M): Net, netamótanir og netaeinsmótanir, Hlutnet, spannandi hlutnet, Vegir, tengd net, Örvanet, Tvíhlutanet,Euler-net og Hamilton-net, 
+setningar Chvátals, Pósa, Ores og Diracs, keppnisnet, tré, spannandi tré, trjáfylkjasetningin, Cayley-setningin, vegin net, reiknirit Kruskals og Dijkstra, 
+flæðinet, setning um hámarksflæði og lágmarkssnið, Ford-Fulkerson-reikniritið, Menger-setningin, spyrðingar, Berge-setningin, giftingarsetning Halls, 
+König-Egerváry-setningin, Kuhn-Munkres-reikniritið, óaðskiljanleg net, tvítengd net, lagnet, Euler-formúla, Kuratowski-setningin, nykurnet, 
+greypingar neta í fleti, Ringel-Youngs-Mayer-setningin, litanir, litunarsetning Heawoods, Brooks-setningin, litamargliða; leggjalitanir, Vizing-setningin.
+
+Á núverandi misseri eru 2.569 skráðir kennarar, af þeim eru 1.094 karlar, 1.475 konur og 0 kvár.
+
+
+Aðalbygging (A) er við Sæmundargötu 2, 102 Reykjavík, þar hefur rektor háskólans aðsetur og þar er einning hátíðarsalur háskólans.
+Askja (N) er við Sturlugötu 7, 102 Reykjavík, þar er meðal annars aðsetur fyrir Jarðvísindadeild Háskóla Íslands og eru þar margar rannsóknarstofur.
+Árnagarður (Á) er við Sturlugötu 1, 102 Reykjavík.
+Gimli (G) er við Sæmundargötu 10, 102 Reykjavík.
+Gróska er við Bjargargötu 1, 102 Reykjavík.
+Háskólatorg (HT) er við Sæmundargötu 4, 102 Reykjavík, þar er meðal annars Háma, veitingasala háskólans, bóksala stúdenta og þjónustuborð HÍ.
+Íþróttahús HÍ er við Sæmundargötu 6, 102 Reykjavík.
+Lögberg (L) er við Sæmundargötu 8, 102 Reykjavík, þar hefur Lagadeild Háskóla Íslands aðsetur.
+Nýi Garður (NG) er við Sæmundargötu 12, 102 Reykjavík.
+Oddi (O) er við Sturlugötu 3, 102 Reykjavík.
+Setberg, hús kennslunnar, er við Suðurgötu 43, 102 Reykjavík.
+Stapi er við Hringbraut 31, 102 Reykjavík.
+Háskólabíó (HB) er við Hagatorg, 107 Reykjavík.
+Tæknigarður (TG) er við Dunhaga 5 (við Háskólabíó), 107 Reykjavík.
+Veröld, hús Vigdísar, er við Brynjólfsgötu 1, 107 Reykjavík.
+VR-I er við Hjarðarhaga 4, 107 Reykjavík.
+VR 1 er við Hjarðarhaga 4, 107 Reykjavík.
+VR-II er við Hjarðarhaga 6, 107 Reykjavík, þar hefur meðal annars Iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild aðsetur.
+VR 2 er við Hjarðarhaga 6, 107 Reykjavík, þar hefur meðal annars Iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild aðsetur.
+VR-III er við Hjarðarhaga 2, 107 Reykjavík.
+VR 3 er við Hjarðarhaga 2, 107 Reykjavík.
+Stakkahlíð / Háteigsvegur (E, H, K, Bratti, Skriða) er við Stakkahlíð, 105 Reykjavík.
+
+Opnunartími Aðalbyggingar er virka daga frá 07:30-18:00, lokað er um helgar.
+Opnunartími Öskju er virka daga frá 07:30-18:00, lokað er um helgar.
+Opnunartími Árnagarði er virka daga frá 07:30-18:00 og laugardaga 08:00-17:00, lokað er á sunnudögum.
+Opnunartími Eirberg er virka daga frá 07:30-16:00, lokað er um helgar.
+Opnunartími Gimla er virka daga frá 07:30-20:00 og laugardaga 07:30-17:00, lokað er á sunnudögum.
+Opnunartími Haga er virka daga frá 07:30-16:00, lokað er um helgar.
+Opnunartími Háskólatorgs er virka daga frá 07:30-20:00 og laugardaga 07:30-17:00, lokað er á sunnudögum.
+Opnunartími Læknagarðs er virka daga frá 07:30-17:00, lokað er um helgar.
+Opnunartími Lögbergs er virka daga frá 07:30-20:00 og laugardaga 07:30-17:00, lokað er á sunnudögum.
+Opnunartími Neshaga er virka daga frá 07:30-16:00, lokað er um helgar.
+Opnunartími Nýja Garðs er virka daga frá 08:00-17:00, lokað er um helgar.
+Opnunartími Odda er virka daga frá 07:30-20:00 og laugardaga 07:30-17:00, lokað er á sunnudögum.
+Opnunartími Setbergs er virka daga frá 08:30-12:00 og 13:00-16:00, lokað er um helgar.
+Opnunartími Lisgreinahúss er virka daga frá 07:30-16:00, lokað er um helgar.
+Opnunartími Stakkahlíðar er virka daga frá 07:30-18:00, lokað er um helgar.
+Opnunartími Stapa er virka daga frá 07:30-17:00, lokað er um helgar.
+Opnunartími Tæknigarðs er virka daga frá 07:30-17:00, lokað er um helgar.
+Opnunartími Veröld-Hús Vigdísar er virka daga frá 07:30-20:00 og laugardaga 07:30-17:00, lokað er á sunnudögum.
+Opnunartími VR1 er virka daga frá 07:30-18:00, lokað er um helgar.
+Opnunartími VR2 er virka daga frá 07:30-20:00 og laugardaga 07:30-17:00, lokað er á sunnudögum.
+Opnunartími VR3 er virka daga frá 07:30-17:00, lokað er um helgar.
+
+
+Þjónustuborð Háskóla Íslands er er á Háskólatorgi.
+Opnunartími þjónustuborðs á Háskólatorgi er 8:30-16:30 mán-fim og 8:30-15:00 fös.
+Þjónustuborðið veitir margvíslega þjónustu fjölbreyttum hópi nemenda, starfsfólks og annarra sem til skólans leita.
+Þjónustuborð Háskóla Íslands veitir margvíslega þjónustu fjölbreyttum hópi nemenda, starfsfólks og annarra sem til skólans leita.
+Stúdentakjallarinn er veitingastaður, kaffihús, skemmtistaður og bar á Háskólatorgi, staðurinn er öllum opinn og er hann vinsæll hjá fólki bæði 
+innan og utan háskólasamfélagsins, í Stúdentakjallaranum eru haldnir margvíslegir viðburðir bæði á vegum nemendafélaga og annarra, tónleikar, 
+umræður, Pub Quiz, Pop Quiz, uppistand, kvikmyndasýningar, sýndir íþróttaviðburðir á risaskjá ofl. 
+Opnunartími Stúdentakjallarans er mánudaga–miðvikudaga 11 – 23, fimmtudaga, föstudaga og laugardaga 11 – 01 og sunnudaga 16 – 23.
+
+
+Hvar finn ég próftöflur: Uglan mín → Námskeiðin mín → Próf, einum til þremur dögum fyrir prófið getur þú séð í hvaða byggingu, stofu og við hvaða borð þú tekur prófið.
+Hvar finn ég próftöflu: Uglan mín → Námskeiðin mín → Próf, einum til þremur dögum fyrir prófið getur þú séð í hvaða byggingu, stofu og við hvaða borð þú tekur prófið.
+Þarf ég að skrá mig í próf: Skráning í námskeið er jafnframt skráning í próf, þú þarft eingöngu að skrá þig sérstaklega í sjúkrapróf og endurtökupróf
+ og það gerir þú í Uglu, ef slík próf eru utan auglýsts próftíma þarf í sumum tilvikum að hafa samband við Nemendaskrá til að fá aðstoð við skráningu í sjúkra- og endurtökupróf.
+Hvar finn ég gömul próf: Nemendur eiga rétt á því að fá að skoða eldri prófverkefni sem lögð hafa verið fyrir, prófverkefni eru í prófasafni hvers námskeiðs, 
+prófasafnið er aðgengilegt á vef námskeiðsins í Uglu.
+Hvað gerist ef ég er veikur á prófdegi: Nemandi sem veikist og getur þar af leiðandi ekki mætt til prófs skal tilkynna veikindi með tölvupósti til 
+Nemendaskrár, nemskra@hi.is, úr hi-netfangi sínu innan þriggja daga frá prófdegi, tilgreina skal númer og heiti námskeiðs, ásamt nafni og 
+kennitölu nemanda, hið sama gildir ef barn nemanda veikist, (Vinsamlegast athugið að ekki þarf að skila læknisvottorði.)
+Hvað hafa kennarar langan tíma til að fara yfir próf: Einkunnir eiga að hafa birst í síðasta lagi 3 vikum eftir prófdag lokaprófs á haustmisseri en í síðasta lagi 2 vikum eftir önnur próf. 
+Hvað gerist ef ég féll í prófi: Meginreglan er sú að heimilt er að þreyta próf í hverju námskeiði tvisvar, ef þú fellur eða mætir ekki í lokapróf er 
+þér heimilt að taka það aftur næst þegar lokapróf er haldið í viðkomandi námskeiði svo lengi sem það er innan árs frá upphaflegu prófi.
+Má ég taka endurtökupróf í námskeiði sem ég hef staðist: Já þú mátt taka próf aftur sem þú hefur staðist ef þú vilt hækka einkunn þína, þetta er hægt bæði 
+með því að skrá sig í endurtökupróf og greiða fyrir það 6.000 kr eða skrá sig aftur í námskeiðið, athugaðu að ef þú ferð aftur í próf sem þú hefur 
+staðist þá gildir seinni einkunnin. Þannig að ef þú lækkar í einkunn eða fellur á seinna prófinu þá gildir sú einkunn.
+Hvað get ég gert ef ég er ósátt(ur) við niðurstöður prófs: Teljir þú að brotið sé á rétti þínum varðandi kennslu, próf, námsmat, einkunnagjöf, mat á námsframvindu 
+eða annað sem snýr að kennslu og prófum skaltu senda skriflegt erindi til deildarforseta.
+
+
+
+Afsláttur með stúdentakorti: Hér er hægt að sjá afslætti sem stúdentakort veitir þér, https://student.is/afslaettir/.
+Afsláttur með stúdentakorti á Stél: Stél býður stúdentum 15% afslátt af matseðli til klukkan 16:00 alla virka daga gegn framvísun stúdentakortsins.
+Afsláttur með stúdentakorti á Smass: Smass býður stúdentum 15% afslátt af matseðli til klukkan 16:00 alla virka daga gegn framvísun stúdentakortsins.
+Afsláttur með stúdentakorti á Alda Music: Alda Music býður stúdentum 10% afslátt af öllu í vefverslun sinni með kóðanum SHI10.
+Afsláttur með stúdentakorti á PFC: PFC býður stúdentum 15% afslátt af mat og 2 fyrir 1 af bjór, afslátturinn gildir mánudaga – föstudaga milli kl. 13:00-17:00 í Veru Mathöll Grósku og Gróðurhúsinu, Hveragerði.
+Afsláttur með stúdentakorti á Reykjavík Design: Reykjavík Design býður stúdentum upp á 10% afslátt af öllum vörum gegn framvísun Stúdentakortsins.
+Afsláttur með stúdentakorti á Reykjavík Röst: Reykjavík Röst býður nemendum Háskóla Íslands 15% afslátt af matseðli(nema áfengir drykkir) gegn framvísun stúdentakortsins.
+Afsláttur með stúdentakorti á Bruggstofan & Honkítonk BBQ: Bruggstofan & Honkítonk BBQ býður stúdentum 15% afslátt af heildarreikningi hvenær sem er dags, gegn framvísun stúdentakortsins.
+Afsláttur með stúdentakorti í World Class: Stúdentar fá 30% afslátt af 3, 6, 9 og 12 mánaðar kortum í World Class Vatnsmýri gegn framvísun Stúdentakortsins.
+Afsláttur með stúdentakorti á Stúdentakjallarnum: Gegn framvísun stúdentakortsins fá stúdentar afslátt á Stúdentakjallaranum, 
+Tuborg Green á 590 kr, Tuborg Classic á 690 kr, Guinness á 790 kr, Kronenbourg Blanc á 990 kr og Bríó á 690 kr.
+
+
+
+
+Hvernig sæki ég um stúdentakort: Þú sækir um stúdentakort í Uglu: Uglan mín → Stúdentakort, Stúdentakort er auðkennis- og afsláttarkort en í umsókninni þarftu að velja hvort stúdentakortið veiti aðgang að byggingu (1.500 kr.) eða ekki (frítt), enginn útlitsmunur er á kortunum en þú verður að velja annað hvort.
+Hvar finn ég matseðil Hámu: Þú getur stillt Uglu þannig að matseðil Hámu birtist á forsíðunni, matseðill er einnig á vef Félagsstofnunar stúdenta og í SmáUglunni.
+Hvar sæki ég um stúdentaíbúð: Stúdentagarðar bjóða nemendum Háskóla Íslands til leigu húsnæði af ýmsum stærðum og gerðum á sanngjörnu verði, allar nánari upplýsingar er að finna á studentagardar.is.
+Hvar skrái ég mig úr námskeiði: Í upphafi hvors misseris, til 10. september á haustmisseri og til 21. janúar á vormisseri, getur þú breytt námskeiðaskráningunni í Uglu, þar birtist blár borði og þú smellir á hann og þar geturu skráð þig úr eða í námskeið.
+Hver eru inntökuskilyrði í Háskóla Íslands: Almenna reglan er stúdentspróf, eða sambærilegt próf frá erlendum skóla, sumar deildir gera þó meiri kröfur.
+Hver er umsóknarfrestur til að sækja um nám: Almennt grunnám: Frá byrjun mars til 5. júní, Framhaldsnám: Frá byrjun mars til 15. apríl. 
+Hvernig sæki ég um nám við Háskóla Íslands: Þú sækir um nám við HÍ með því að fylla út umsókn á vef skólans https://www.hi.is/umsokn_um_nam.
+Hvar fæ ég upplýsingar um stöðu umsóknar: Þú fylgist með afgreiðslu umsóknar þinnar í samskiptagáttinni,https://ugla.hi.is/namsumsoknir/, þar sem þú sóttir um námið, undir flipanum  „Yfirlit umsókna“, þú ferð inn á síðuna með því að nota netfangið þitt og lykilorðið sem þú bjóst til þegar þú skráðir þig upphaflega inn í samskiptagáttina.
+Hvert er skrásetningargjald í Háskóla Íslands: Nemendur við Háskóla Íslands greiða árlegt skrásetningargjald, sem er 75.000 kr., en ekki skólagjöld, Þú greiðir skrásetningargjaldið í samskiptagáttinni með greiðslukorti, í einu lagi eða með kortaláni.
+Hvað kostar að skrá sig í nám: Nemendur við Háskóla Íslands greiða árlegt skrásetningargjald, sem er 75.000 kr., en ekki skólagjöld, Þú greiðir skrásetningargjaldið í samskiptagáttinni með greiðslukorti, í einu lagi eða með kortaláni.
+Hvenær byrjar/endar kennsla: Þú finnur upplýsingar um upphaf kennslu og kennslutímabil í kennslualmanaki,https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=35118&version=current, en athugaðu að dagsetningar eru mismunandi milli fræðasviða og deilda.
+Hvar finn ég stundatöfluna mína: Þú getur skoðað þína stundatöflu í Uglu með því að smella á Uglan mín → Stundataflan mín og einnig í SmáUglunni.
+Hvað má ég skrá mig í margar einingar: Þú mátt skrá þig í allt að 40 ECTS einingar á misseri.
+Er mætingaskylda í HÍ: Meginreglan er að tímasókn er frjáls, þó er oft gerð krafa um tímasókn í námskeiðum þar sem kennslan byggist að hluta á framlagi nemenda, s.s. umræðu- og verkefnatímum.
+Hver getur aðstoðað mig við námsval: Náms- og starfsráðgjöf er á þriðju hæð í Háskólatorgi, nemendur Háskólans geta bókað viðtal hjá ráðgjafa í bókunargátt 
+eða úrræði í námi og prófum eftir því hvert erindið er, eða í síma 525 4315, ráðgjafar eru einnig í netspjalli háskólans.
+Hvernig fæ ég tíma hjá náms- og starfsráðgjafa: Hér er hægt að bóka tíma  hjá ráðgjafa í bókunargátt, https://outlook.office365.com/owa/calendar/nshi@reiknistofnun.onmicrosoft.com/bookings/.
+Hvað geri ég ef mig langar að skipta um námsleið: Í mars á hverju ári fer fram skráning í áframhaldandi nám í Uglu þar sem þú getur jafnframt óskað eftir því að skipta um aðalfag, 
+þú skráir þig með því að smella á borðann sem birtist í Uglu og smellir á hlekkinn um að skipta um námsleið.
+Get ég skipt um námsleið: Í mars á hverju ári fer fram skráning í áframhaldandi nám í Uglu þar sem þú getur jafnframt óskað eftir því að skipta um aðalfag, 
+þú skráir þig með því að smella á borðann sem birtist í Uglu og smellir á hlekkinn um að skipta um námsleið.
+Hvernig fæ ég aðgang að Uglu: Um leið og þú hefur greitt skrásetningargjald skólans getur þú sótt notandanafn og lykilorð, það gerirðu með því að nota netfangið þitt og lykilorðið 
+sem þú bjóst til þegar þú skráðir þig inn í samskiptagátt Háskóla Íslands, undir flipanum „Yfirlit umsókna“ er hægt úthluta sér notandanafni og lykilorði, birting notandanafns og 
+lykilorðs í Uglu varir í stuttan tíma í samskiptagáttinni og því mikilvægt að skrá niður hjá sér notandanafnið og lykilorðið þegar það birtist fyrst í gáttinni. 
+
+Ágætiseinkunn er 9,0 - 10.
+Fyrsta einkunn er 7,25 - 8,99.
+Önnur einkunn er 6,0 - 7,24.
+Þriðja einkunn er 5,0 - 5,99.
+
+Slóð á kennslualmanak 2022–2023, https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=35118&version=current.
+Slóð á kennsluskrá 2022-2023, https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=-2022&kennsluar=2022.
+Vefsíða háskólans, https://www.hi.is/.
+Slóð á stefnu Háskóla Íslands, https://www.hi.is/haskolinn/hi26_stefna_haskola_islands_2021_2026.
+Vefsíða stúdentaráðs, https://student.is/.
+Slóð á nemendafélög háskólans, https://student.is/nemendafelog/.
+Vefsíða stúdentagarða, https://www.studentagardar.is/.
+Símanúmer hjá skrifstofu stúdentagarða er 570-0800.
+Vefsíða Byggingafélag námsmanna, https://bn.is/.
+Símanúmer hjá skrifstofu Byggingafélag námsmanna er 570-6600.
+
+Stúdentagarðar bjóða námsmönnum við Háskóla Íslands til leigu hentugt húsnæði á góðum stöðum og sanngjörnu verði, húsnæðið er af ýmsum stærðum og gerðum:
+* Einstaklingsherbergi og -íbúðir
+* Tvíbýli
+* Fjórbýli
+* Paríbúðir
+* Tveggja, þriggja og fjögurra herbergja fjölskylduíbúðir.
+
+
+Forseti Menntavísindasviðs er Kolbrún Þorbjörg Pálsdóttir Dósent, síminn hjá henni er 5255965, netfangið hennar er kolbrunp@hi.is.
+Forseti Hugvísindasviðs er Ólöf Garðarsdóttir Prófessor, síminn hjá henni er 5255350, netfangið hennar er olofgard@hi.is.
+Forseti Verkfræði- og náttúruvísindasviðs er Sigurður M Garðarsson Prófessor, síminn hjá honum er 5254659, netfangið hjá honum er sigmg@hi.is.
+Forseti Félagsvísindasviðs er Stefán Hrafn Jónsson Prófessor, síminn hjá honum er 5254093, netfangið hjá honum er shj@hi.is.
+Forseti Heilbrigðisvísindasviðs er Unnur Þorsteinsdóttir, síminn hjá henni er 5255880, netfangið hjá henni er uthorsteinsdottir@hi.is.
