@@ -1,3 +1,7 @@
+"""
+
+"""
+
 import nltk
 import random
 from flask import Flask, render_template, request
@@ -127,7 +131,7 @@ def ugli_response(user_input):
                     data.remove(user_input)
                     return ugli_answer
     else:
-        return "Adios amigo! Eigðu góðan dag!"                
+        return "Bæ! Vonandi hjálpaði ég þér eitthvað!"                
                 
 
 #Sama fall og að ofan nema með málfars leiðréttingu, virkar ekki á windows bara á mac(allavega hjá mér)
@@ -155,7 +159,7 @@ def ugli_response_with_spellcheck(user_input):
                     data.remove(user_input)
                     return ugli_answer
     else:
-        return "Adios amigo! Eigðu góðan dag!" 
+        return "Bæ! Vonandi hjálpaði ég þér eitthvað!" 
 
 
 @app.route("/")

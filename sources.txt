@@ -1,0 +1,11 @@
+Íslensk stopporð:
+Atli Jasonarson 
+https://github.com/atlijas/icelandic-stop-words
+
+Lausnin sem notendaviðmót er byggt á:
+https://github.com/Arraxx/new-chatbot
+
+Reynir_correct:
+https://github.com/mideind/GreynirCorrect
+
+

@@ -1,0 +1,7 @@
+Libraries:
+nltk
+random
+flask
+sklearn
+reynir
+reynir_correct
