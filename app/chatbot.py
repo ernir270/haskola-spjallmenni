@@ -1,7 +1,3 @@
-"""
-
-"""
-
 import nltk
 import random
 from flask import Flask, render_template, request
@@ -42,7 +38,7 @@ def greet(sentence):
 def conversation(sentence):
     conversation_starters_input = ["hvað segirðu?", "hvað segiru?", "hvað segir kjellinn?", "whatup", "wassup"]
     conversation_starters_output = ["Ferskur, breskur og bandarískur!", "Ég hef aldrei verið betri!", 
-                                "Fróandi fínn og fitlandi góður!"]
+                                    "Fróandi fínn og fitlandi góður!"]
     if sentence in conversation_starters_input:
         return random.choice(conversation_starters_output)
      
@@ -51,12 +47,12 @@ def conversation(sentence):
 def fact(sentence):
     fact_input = ["segðu mér sturlaða staðreynd", "ertu með sturlaða staðreynd"]
     fact_output = ["Fram til ársins 1984 voru hundar bannaðir í Reykjavík. Þá var lögunum breytt og mátti vera með hunda sumstaðar. Það var ekki fyrr en 2006 sem að banninu var alveg aflétt.",
-               "Miðað við höfðatölu er Ísland með fleiri rithöfunda en öll önnur lönd í heiminum!",
-               "Bjór var bannaður á Íslandi fram til ársins 1989!",
-               "Ísland er með flestu sundlaugar í heiminum – miðað við höfðatölu!",
-               "Manneskjan er 1 sentimeter hærri á morgnana en á kvöldin.. það munar um minna",
-               "Blóð okkar mannanna ferðast tæplega 20.000 km um líkamann okkar á hverjum degi.",
-               "Hnerr ferðast á allt að 160km hraða!"]
+                   "Miðað við höfðatölu er Ísland með fleiri rithöfunda en öll önnur lönd í heiminum!",
+                   "Bjór var bannaður á Íslandi fram til ársins 1989!",
+                   "Ísland er með flestu sundlaugar í heiminum – miðað við höfðatölu!",
+                   "Manneskjan er 1 sentimeter hærri á morgnana en á kvöldin.. það munar um minna",
+                   "Blóð okkar mannanna ferðast tæplega 20.000 km um líkamann okkar á hverjum degi.",
+                   "Hnerr ferðast á allt að 160km hraða!"]
     if sentence in fact_input:
         return random.choice(fact_output)
 
@@ -76,7 +72,7 @@ def initialize_tfidf(data, stopwords):
     return TFIDF_matrix
 
 
-#Náum í indexinn á 
+#Náum í indexinn á svarin í data fylkinu 
 def get_index_response(tfidf_matrix):
     cosine_sim = cosine_similarity(tfidf_matrix[-1], tfidf_matrix)
     index_answer = cosine_sim.argsort()[0][-2]
@@ -85,7 +81,7 @@ def get_index_response(tfidf_matrix):
     cosine_val = cosine_sim_flat[-2]
 
     if cosine_val == 0:
-        return 0
+        return -1
     else:
         return index_answer
 
@@ -107,7 +103,6 @@ data = get_data('hi_dataset.txt')
 stopwords = get_stopwords('stopwords.txt')
 
 
-
 #Fall sem gefur okkur svar við spurningu notanda
 def ugli_response(user_input):
     user_input = user_input.lower()
@@ -123,7 +118,7 @@ def ugli_response(user_input):
                 data.append(user_input)
                 TFIDFVector_matrix = initialize_tfidf(data, stopwords)
                 response_index = get_index_response(TFIDFVector_matrix)
-                if response_index == 0:
+                if response_index == -1:
                     data.remove(user_input)
                     return "Fyrirgefðu en ég skil þig ekki"
                 else:
@@ -162,10 +157,12 @@ def ugli_response_with_spellcheck(user_input):
         return "Bæ! Vonandi hjálpaði ég þér eitthvað!" 
 
 
+#Hleður inn index.html
 @app.route("/")
 def home():
     return render_template("index.html")
-    
+
+#Tengjum föllin við notendaviðmótið
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
